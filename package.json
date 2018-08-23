@@ -1,0 +1,23 @@
+{
+  "name": "servitecwb",
+  "version": "1.0.0",
+  "description": "ServiTec Web Service API REST",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenalv/servitecwb.git"
+  },
+  "author": "Kenneth Alvarez Esquivel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenalv/servitecwb/issues"
+  },
+  "homepage": "https://github.com/kenalv/servitecwb#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {}
+}
